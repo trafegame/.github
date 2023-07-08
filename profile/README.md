@@ -1,6 +1,6 @@
 # Bem vindos ao Github do Trafega.me!
 
-![Banner Github](/images/trafegamev22.png)
+![Banner Github](/images/trafegame-black.png)
 
 ## Tecnologias
 
